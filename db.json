@@ -7,5 +7,48 @@
   ],
   "profile": {
     "name": "typicode"
+  },"productos": [
+  {
+    "id": 1,
+    "foto": "./assets/img/it.jpg",
+    "nombre": "IT",
+    "autor": "Stephen King",
+    "precio": 3200
+  },
+  {
+    "id": 2,
+    "foto": "./assets/img/elresplandor.jpg",
+    "nombre": "El Resplandor",
+    "autor": "Stephen King",
+    "precio": 2800
+  },
+  {
+    "id": 3,
+    "foto": "./assets/img/dracula.jpg",
+    "nombre": "Dracula",
+    "autor": "Bram Stoker",
+    "precio": 2200
+  },
+  {
+    "id": 4,
+    "foto": "./assets/img/silenciodelosinocentes.jpg",
+    "nombre": "El Silencio de los inocentes",
+    "autor": "Thomas Harris",
+    "precio": 3100
+  },
+  {
+    "id": 5,
+    "foto": "./assets/img/frankestein.jpg",
+    "nombre": "Frankestein",
+    "autor": "Mari Shelley",
+    "precio": 3000
+  },
+  {
+    "id": 6,
+    "foto": "./assets/img/cementeriodeanimales.jpg",
+    "nombre": "Cementerio de animales",
+    "autor": "Stephen King",
+    "precio": 2900
   }
+]
 }
